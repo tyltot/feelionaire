@@ -18,11 +18,14 @@ canvas {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+  height: 100%
 }
 .titleDeal {
 	display: flex;
-    letter-spacing: 3rem;
+    letter-spacing: 4rem;
     user-select: none;
     text-align: center;
     text-indent: 3rem;
+    font-variant: all-petite-caps;
+    font-family: sans-serif;
 }
