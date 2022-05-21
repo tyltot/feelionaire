@@ -5,3 +5,24 @@ body {
 canvas {
   display: block;
 }
+
+.name {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 11rem;
+	right: 0;
+	padding: 5px 15px;
+	color: #fff;
+	font-size: 26px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.titleDeal {
+	display: flex;
+    letter-spacing: 3rem;
+    user-select: none;
+    text-align: center;
+    text-indent: 3rem;
+}
